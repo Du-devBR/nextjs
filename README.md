@@ -1,7 +1,13 @@
 # Desafio técnico Prothera |
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Du-devBR/teste-prothera)
+![GitHub language count](https://img.shields.io/github/languages/count/Du-devBR/teste-prothera)
+![GitHub forks](https://img.shields.io/github/forks/Du-devBR/teste-prothera)
+![GitHub license](https://img.shields.io/github/license/Du-devBR/teste-prothera)
 > Projeto desenvolvido para o teste pratico empresa Prothera.
-> Preojeto foi contruido com Java-17 e controle de bibliotecas com Maven.
+> Projeto foi contruido com Java-17 e controle de bibliotecas com Maven.
+
+## Case
 > A empresa Iniflex possui diferentes cargos para funcionarios. O setor responsavel pelo controle de funcionarios precisa
 > ter uma lista atualizado com todos seus funcionarios.
 > Diante disso, você deve desenvolver um projeto java, com os seguintes requisitos:
@@ -46,3 +52,12 @@
 git clone https://github.com/Du-devBR/teste-prothera.git
 ```
 
+- Abra o arquivo "Pom" com em seu editor de codigo
+- Execute o arquivo Main
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Java-17](https://docs.oracle.com/en/java/)
+- [Maven](https://maven.apache.org/guides/)
